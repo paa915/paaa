@@ -1,1 +1,6 @@
+piston-data.mojang.com»CONNECT piston-data.mojang.com:443 HTTP/1.1
+User-Agent: Java/25.0.5
+Host: piston-data.mojang.com
+Accept: */*
+Proxy-Connection: keep-alive
 
